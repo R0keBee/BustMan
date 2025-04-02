@@ -1,0 +1,10 @@
+This is a usage guide:
+Py BustMan.py -u "url goes here" -f "path to file for paths"
+
+Once you run this command it will run through the list of directories provided in the .txt file.
+
+
+
+
+-u = url
+-f = file
